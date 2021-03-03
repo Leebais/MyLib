@@ -1,1 +1,1 @@
-attrib f:\'*' -s -h /s /d
+attrib f:\* -s -h /d
